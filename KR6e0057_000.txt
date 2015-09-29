@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大方廣菩薩十地經
+#+DATE: 2015-09-28 22:57:06.080636
+#+PROPERTY: JUAN 0
