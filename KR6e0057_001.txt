@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:05.882602
+#+DATE: 2015-09-28 22:57:07.398108
 #+TITLE: 佛說大方廣菩薩十地經
 #+PROPERTY: CBETA_ID T10n0308
 #+PROPERTY: ID KR6e0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 308
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0057_T_000-0963b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0057_T_001-0963b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.308¶
-
- 《佛說大方廣菩薩十地經》¶
+No. 308¶
+《佛說大方廣菩薩十地經》¶
 ¶
 元魏西域三藏吉迦夜譯¶
 
@@ -235,8 +234,7 @@ No.308¶
 等無去無來，亦不作非不作故。」說是法時，三¶
 千菩提薩埵得無生法忍。
 
-「復次天子！若有讀¶
-誦持是法者，終不離息一切纏陀羅尼、不離¶
+「復次天子！若有讀誦持是法者，終不離息一切纏陀羅尼、不離¶
 金剛堅強破散一切煩惱山陀羅尼，終不離¶
 說無言普入諸波羅蜜陀羅尼，終不離能說¶
 異名句諸語陀羅尼、不離虛空離垢出生無¶
